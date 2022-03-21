@@ -1,0 +1,56 @@
+.App {
+  background-color: #b1d4e0;
+}
+input,
+textarea,
+select {
+  width: 450px;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+}
+button {
+  width: fit-content;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 20px;
+  background-color: #e8c310;
+  font-weight: bold;
+}
+select {
+  width: 470px;
+}
+form {
+  width: fit-content;
+  margin: auto;
+  background-color: #041842;
+  border-radius: 10px;
+  padding: 10px;
+}
+label {
+  font-weight: 600;
+  text-align: left;
+  color: white;
+  margin: 15px;
+}
+h2 {
+  text-align: center;
+}
+.aligncenter {
+  text-align: center;
+}
+.deleteBtn {
+  text-align: center;
+}
+.deleteBtn button {
+  background-color: #3b3620;
+  color: antiquewhite;
+}
+.tweets {
+  text-align: left;
+  width: fit-content;
+  margin: auto;
+  border-bottom: 4px solid rgb(170, 113, 113);
+  padding: 10px 30px;
+  margin-bottom: 10px;
+}
